@@ -10,4 +10,4 @@ Happy Coding!
 Connect with me on [LinkedIn](https://www.linkedin.com/in/jonathan1382/)
 
 Completed Tasks:
-* Task 1 - Prediction using Supervised ML
+* Prediction using Supervised ML
