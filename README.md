@@ -11,3 +11,4 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/jonathan1382/)
 
 Completed Tasks:
 * Prediction using Supervised ML
+* Exploratory Data Analysis - Retail
